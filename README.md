@@ -136,7 +136,7 @@ There is **no automatic language selection**.
 - **Author / Entwickler:** R. Cosa  
 - **Project / Projekt:** RevaroRP  
 - **Version:** 1.0.0  
-- **Discord:** *(füge hier deinen Serverlink ein / insert your Discord link)*
+- **Discord:** *https://discord.gg/ddWU2hbMUq*
 
 ---
 
